@@ -1,2 +1,4 @@
-This is a study history about coding.
-It starts at Mar 2022.
+### Hi, this is Bom!:wave:
+
+This is my study archieve history about web development.
+It starts at *Mar 2022*.
